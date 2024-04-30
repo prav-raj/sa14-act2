@@ -1,0 +1,13 @@
+#movable-div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 0;
+    transition: left 2s;  
+}
+
+button {
+    position: absolute;
+    top: 150px;
+}
